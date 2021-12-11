@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Running Pace Converter</string>
+    <string name="ediTextRitmoKmh">Insert pace in Km/h</string>
+    <string name="textRitmominKm">Your pace in min/Km</string>
+    <string name="buttonConvert">Convert Km/h to min/Km</string>
+</resources>
